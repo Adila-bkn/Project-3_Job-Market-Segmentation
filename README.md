@@ -1,6 +1,6 @@
 Job-Market-Segmentation
  
- Data science and Machine learning domain jobs are gaining its importance day by day.
+ Data science and Machine learning domain jobs are increasing day by day as demand goes high.
 As compared to the previous years,
 Companies,industrial sectors and enterprises etc are incorporating ML/AI applications 
 into thier systems to improve thier efficiency.
